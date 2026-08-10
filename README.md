@@ -13,8 +13,6 @@ I'm a 3rd-year student and Full-Stack Web Developer passionate about building mo
 - 🎯 Looking for software development internships & opportunities
 
 
----
-
 ⚡ Tech Stack
 ---
 
@@ -73,7 +71,7 @@ Tech: "React" "Node.js" "Express" "PostgreSQL" "Prisma" "AI"
 ---
 
 📈 Contribution Graph
-----
+---
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedp6&bg_color=0D1117&color=C9D1D9&line=A855F7&point=FFFFFF&area=true&hide_border=true"/></div>---
 
