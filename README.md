@@ -32,11 +32,10 @@ I'm a 3rd-year student and Full-Stack Web Developer passionate about building mo
 
 "Google Gemini" • "Cloudinary" • "Stripe" • "Clerk" • "Sentry" • "Socket.IO"
 
-</div>
----
+</div>---
+
 
 🚀 Featured Projects
-
 ----
 
 🤖 QuickGPT
