@@ -171,7 +171,7 @@ Tech: "React" "Node.js" "Express" "PostgreSQL" "Prisma" "AI"
 
 <div align="center"><a href="https://github.com/Vedp6">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/vedpatil15">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a></div><br><div align="center">💜 Thanks for visiting my profile!
 
