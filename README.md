@@ -139,26 +139,6 @@ Tech: "React" "Node.js" "Express" "PostgreSQL" "Prisma" "AI"
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedp6&custom_title=Vedant's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=8A2BE2&point=FFFFFF&area_color=6A0DAD&area=true&hide_border=true"/></div>---
 
-🎯 2026 Goals
-
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🚀 Become a Strong Full-Stack Developer                ║
-║                                                          ║
-║   🧠 Master Data Structures & Algorithms                 ║
-║                                                          ║
-║   🤖 Build More AI-Powered Applications                  ║
-║                                                          ║
-║   ☁️  Learn Cloud & DevOps                               ║
-║                                                          ║
-║   💼 Land a Software Development Internship              ║
-║                                                          ║
-║   🌍 Contribute to Open Source                           ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-
----
-
 🌐 Connect With Me
 
 <div align="center"><a href="https://github.com/Vedp6">
