@@ -36,31 +36,6 @@ I'm a 3rd-year student and Full-Stack Web Developer passionate about building mo
 
 🚀 Featured Projects
 
-<div align="center">Project| Description| Stack
-💬 QuickChat| Real-time chat application with instant messaging| MERN + Socket.IO
-🤖 QuickGPT| AI-powered chatbot application| React + Node + AI
-🍔 Food Delivery| Full-stack food ordering platform with payments| MERN + Stripe
-🏨 Hotel Booking| Hotel & room booking platform| MERN + Clerk
-🌐 AI Website Generator| AI-powered website generation platform| PERN + Prisma
-
-</div>---
-
-💬 QuickChat
-
-«⚡ Real-time chat application built using the MERN stack and Socket.IO.»
-
-Features
-
-- 💬 Real-time messaging
-- ⚡ Socket.IO communication
-- 👤 User authentication
-- 📱 Responsive interface
-- 🔄 Real-time updates
-
-Tech: "React" "Node.js" "Express" "MongoDB" "Socket.IO"
-
----
-
 🤖 QuickGPT
 
 «🧠 AI-powered chatbot designed for interactive conversations.»
@@ -73,40 +48,6 @@ Features
 - 📱 Responsive design
 
 Tech: "React" "Node.js" "Express" "AI APIs"
-
----
-
-🍔 Food Delivery App
-
-«🍕 Full-stack food delivery platform with online payments and admin management.»
-
-Features
-
-- 🍔 Food browsing
-- 🛒 Cart & ordering
-- 💳 Stripe Checkout
-- 🔔 Stripe Webhooks
-- 👨‍💼 Admin dashboard
-- ☁️ Cloudinary image management
-
-Tech: "MongoDB" "Express" "React" "Node.js" "Stripe" "Cloudinary"
-
----
-
-🏨 Hotel Booking App
-
-«🏨 Full-stack hotel booking platform with authentication and hotel management.»
-
-Features
-
-- 🔐 Clerk authentication
-- 🏨 Hotel registration
-- 🛏️ Room booking
-- ☁️ Cloudinary uploads
-- 🔔 Clerk Webhooks
-- 📱 Responsive UI
-
-Tech: "MERN" "Clerk" "MongoDB" "Cloudinary"
 
 ---
 
