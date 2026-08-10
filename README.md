@@ -127,10 +127,6 @@ Tech: "React" "Node.js" "Express" "PostgreSQL" "Prisma" "AI"
 
 ---
 
-📊 GitHub Analytics
-
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Vedp6&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedp6&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=Vedp6&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/></div>---
-
 📈 Contribution Graph
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedp6&bg_color=0D1117&color=C9D1D9&line=A855F7&point=FFFFFF&area=true&hide_border=true"/></div>---
@@ -138,10 +134,6 @@ Tech: "React" "Node.js" "Express" "PostgreSQL" "Prisma" "AI"
 🐍 My Contributions
 
 <div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
-
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Vedp6&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/></div>---
 
 📅 Contribution Calendar
 
